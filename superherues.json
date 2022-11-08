@@ -1,0 +1,52 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    },
+    {
+      "name" : "paty chapoy ",
+      "age" : 10,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "super chisme",
+        "super criticona",
+        "super viejita"
+        https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eluniversal.com.mx%2Fespectaculos%2Fpati-chapoy-se-quita-la-falda-y-causa-sensacion-con-su-disfraz-de-ladybug&psig=AOvVaw2JEiizOINZLSUZTxHgbjfo&ust=1667958266170000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIift4a7nfsCFQAAAAAdAAAAABAY
+    ]
+    }
+    ]
+}
